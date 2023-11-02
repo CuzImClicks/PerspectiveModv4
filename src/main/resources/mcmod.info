@@ -1,7 +1,7 @@
 [
 {
-  "modid": "djperspectivemod",
-  "name": "Perspective Mod v4",
+  "modid": "flyingfox",
+  "name": "Flyingfox",
   "description": "",
   "version": "${version}",
   "mcversion": "${mcversion}",
